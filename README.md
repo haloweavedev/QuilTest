@@ -1,4 +1,4 @@
-# 3Advance AI-Enhanced Form System
+# AI-Enhanced Form System
 
 > A dynamic, AI-enhanced form experience using QuillForms with voice capabilities and conversational AI integration.
 
@@ -132,7 +132,7 @@ Includes:
 
 ## License
 
-This project is proprietary and confidential to 3Advance.
+This project is proprietary and confidential to the client.
 
 ---
-For more information, contact [3Advance Support](https://3advance.com/contact)
+
